@@ -1,4 +1,4 @@
 <?php
-$hashed_password = password_hash('Laporanku123', PASSWORD_DEFAULT);
+$hashed_password = password_hash('...', PASSWORD_DEFAULT);
 echo $hashed_password;
 ?>
