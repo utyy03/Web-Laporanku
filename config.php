@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$db   = "db_laporanku";
+$db   = "database your name";
 
 // Buat koneksi
 $conn = mysqli_connect($host, $user, $pass, $db);
